@@ -2,7 +2,7 @@ def reverse_each_word(sentence1)
 
   i=0
 
-  sent2=sentence1.split
+  sentence1.split
 sent2.collect { |e|e.reverse }
 .join(" ")
 end
