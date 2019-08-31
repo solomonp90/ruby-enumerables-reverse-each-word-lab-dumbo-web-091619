@@ -7,7 +7,7 @@ else
 sent2.collect { |e|e.reverse }
 .join(" ")
 end
-
+.each
 end
 # sentence1.each{|e|p e.reverse}
 #.each{ |pair| p pair }
