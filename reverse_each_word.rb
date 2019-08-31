@@ -1,8 +1,7 @@
 def reverse_each_word(sentence1)
-if sentence2
-  sent2 = sentence2
+
   i=0
-else
+
   sent2=sentence1.split
 sent2.collect { |e|e.reverse }
 .join(" ")
