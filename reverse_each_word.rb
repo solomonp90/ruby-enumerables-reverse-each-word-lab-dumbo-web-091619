@@ -1,4 +1,4 @@
-def reverse_each_word(sentence1,sentence2=nil)
+def reverse_each_word(sentence1)
 if sentence2
   sent2 = sentence2
   #i=0
